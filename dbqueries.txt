@@ -1,0 +1,16 @@
+ClientcompanyData 	-->	alter table clientcompanydata AUTO_INCREMENT=1
+enter_trade			--> 	alter table enter_trade AUTO_INCREMENT=1
+nususerdata			-->	DON'T DO ANYTHING
+nus_calendermonth		-->	alter table nus_calendermonth AUTO_INCREMENT=1;
+nus_calenderquarter	-->	alter table nus_calenderquarter AUTO_INCREMENT=1;
+nus_calenderyear		-->	alter table nus_calenderyear AUTO_INCREMENT=1;
+nus_countries 		-->	DON'T DO ANYTHING
+nus_currencies 		-->	DON'T DO ANYTHING
+nus_electricity_index 	-->	DON'T DO ANYTHING
+nus_naturalgas_index 	-->	DON'T DO ANYTHING
+nus_pricing_mechanisam	-->	DON'T DO ANYTHING
+nus_season			-->	DON'T DO ANYTHING
+nus_supply_contract	-->	ALTER TABLE nus_supply_contract AUTO_INCREMENT=1;
+nus_tradeperiods		-->	ALTER TABLE nus_tradeperiods AUTO_INCREMENT=1;
+nus_trade_periods_list	-->	DON'T DO ANYTHING
+parentcompanydata		-->	ALTER TABLE parentcompanydata AUTO_INCREMENT=1;
